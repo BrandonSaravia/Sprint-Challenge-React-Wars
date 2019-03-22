@@ -1,0 +1,21 @@
+.Character-info{
+    height: 390px;
+    max-width: 425px;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 36px;
+    
+    
+}
+h3{
+    color: #ffeb3b;
+    border: 1px solid;
+    background: red;
+    margin-bottom: 0;
+}
+.facts{
+    text-align: left;
+    list-style: urdu;
+    color: #6e9aff;
+    background: antiquewhite;
+}
