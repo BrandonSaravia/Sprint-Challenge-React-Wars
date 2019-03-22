@@ -4,5 +4,12 @@
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
+  font-size: 170px;
+  border-bottom: 7px solid black;
+  max-width: 1700px;
+  margin: 0 auto;
+  margin-bottom: 125px;
 }
 /* write your parent styles in here for your App.js */
+
+/* I put them in header and StarWars.css */
